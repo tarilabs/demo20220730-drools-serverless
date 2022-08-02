@@ -1,6 +1,7 @@
 # demo20220730-drools-serverless Project
 
 Used for this video: https://www.youtube.com/watch?v=KGXJ_bEyTmo
+
 this blog post: https://blog.kie.org/2022/08/serverless-drools-in-3-steps-kogito-quarkus-kubernetes-and-knative.html
 
 ## Details
